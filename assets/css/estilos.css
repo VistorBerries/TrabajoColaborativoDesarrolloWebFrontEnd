@@ -1,0 +1,21 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+header {
+  background-image: url(https://img.freepik.com/fotos-premium/concepto-banner-tecnologia-ti_1426-6076.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  height: 20vh;
+}
+
+header h1 {
+  color: white;
+  font-weight: bolder;
+  font-size: 50px;
+}
